@@ -1,0 +1,16 @@
+Home ID: 101, Description: Spacious villa with a beautiful garden, Location: 456 Park Avenue Suburbia, Price: 5000
+Home ID: 204, Description: Modern apartment in the heart of downtown, Location: 789 High Street Metropolis, Price: 4000 
+Home ID: 305, Description: Cozy cottage near the lake, Location: 321 Lakeside Drive Countryside ,Price: 3000
+Home ID: 408, Description: Luxury penthouse with panoramic city views, Location: 101 Skyline Boulevard Urban Center, Price: 2000
+Home ID: 512, Description: Charming townhouse in historic district, Location: 777 Heritage Lane Old Town, Price: 7000
+Home ID: 619, Description: Rustic cabin nestled in the woods, Location: 555 Forest Road Wilderness Area, Price: 15000
+Home ID: 724, Description: Stylish loft with industrial chic design, Location: 909 Factory Street Art District, Price: 9000
+Home ID: 832, Description: Elegant mansion with landscaped gardens, Location: 222 Manor Avenue Estates District, Price: 5000
+Home ID: 101, Description: Spacious villa with a beautiful garden, Location: 456 Park Avenue Suburbia, Price: 5000
+Home ID: 204, Description: Modern apartment in the heart of downtown, Location: 789 High Street Metropolis, Price: 4000 
+Home ID: 305, Description: Cozy cottage near the lake, Location: 321 Lakeside Drive Countryside ,Price: 3000
+Home ID: 408, Description: Luxury penthouse with panoramic city views, Location: 101 Skyline Boulevard Urban Center, Price: 2000
+Home ID: 512, Description: Charming townhouse in historic district, Location: 777 Heritage Lane Old Town, Price: 7000
+Home ID: 619, Description: Rustic cabin nestled in the woods, Location: 555 Forest Road Wilderness Area, Price: 15000
+Home ID: 724, Description: Stylish loft with industrial chic design, Location: 909 Factory Street Art District, Price: 9000
+Home ID: 832, Description: Elegant mansion with landscaped gardens, Location: 222 Manor Avenue Estates District, Price: 5000

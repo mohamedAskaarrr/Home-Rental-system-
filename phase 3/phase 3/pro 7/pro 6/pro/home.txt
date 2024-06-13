@@ -1,0 +1,3 @@
+ID40,description,vjbkhklnjnkjbkjbkj,price,6000,type: duplex
+ID: 1, descriptiongggg price: ,6000, type: villa
+ID: 12, description: hkljlkkjkjbjhb, price: 900, type: villa
